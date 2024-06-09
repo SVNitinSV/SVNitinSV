@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SVNitinSV
 - 👀 I’m interested in Computers and Electronics
-- 🌱 I’m currently learning ...C
 - 📫 How to reach me ...svnitinsv@gmail.com
 
 <!---
